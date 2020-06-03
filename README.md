@@ -10,8 +10,7 @@ View the jupyter notebooks here:<br>
 <a href="https://nbviewer.jupyter.org/github/Rajdeep2121/NLP-Basics/blob/master/wordnet.ipynb">wordnet.ipynb</a><br>
 
 
-<div style="background-color: grey;"><b><u>NOTE</u>:<br>
-DUE TO SOME ISSUE, GITHUB CANNOT RENDER THE JUPYTER NOTEBOOKS</b>
-</div>
+> <b><u>NOTE:</u><br>
+> DUE TO SOME ISSUE, GITHUB CANNOT RENDER THE JUPYTER NOTEBOOKS</b>
 
 
